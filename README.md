@@ -16,5 +16,5 @@ project-root/
 ├─ notebooks/
 │  ├─ 01_data_prep.ipynb
 |  ├─ 02_eda.ipynb
-│  └─ 02_forecasting_model.ipynb
+│  └─ 03_trend_analysis_and_forecasting_modeling.ipynb
 └─ README.md
